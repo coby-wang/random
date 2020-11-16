@@ -10,9 +10,3 @@ def test():
 
 def test2():
     return True
-
-# add test3 method
-def test3():
-    # test pull request.
-    return True
-
