@@ -4,3 +4,6 @@ os.chdir(os.getcwd())
 dirs, files = os.walk()
 for dir in dirs:
     print(dir)
+
+def test():
+    return 1
