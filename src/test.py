@@ -10,3 +10,7 @@ def test():
 
 def test2():
     return True
+# add test3
+def test3():
+    return False
+
