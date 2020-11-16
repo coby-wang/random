@@ -7,3 +7,6 @@ for dir in dirs:
 
 def test():
     return 1
+
+def test2():
+    return True
