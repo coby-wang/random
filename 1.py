@@ -4,3 +4,5 @@ class Animal(object):
         self.name = name
     def eat(self):
         print("{} is eating.".format(self.name))
+    def aaa:
+        ...
